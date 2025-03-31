@@ -1,0 +1,9 @@
+ID,Product Name,Category,Quantity,Unit Price,Sale Date,Store
+6,Bread,Bakery,5.0,3.75,2023/07/15,Store C
+11,Bread,Household,1.0,3.75,2023-07-08,Store A
+17,Eggs,Fruits,10.0,3.75,2023/07/15,Store B
+20,Soap,Dairy,0.0,1.5,29/07/2023,Store C
+23,Bread,Bakery,1.0,1.5,14/07/2023,Store A
+27,Milk,Household,10.0,1.5,07.07.2023,Store A
+28,Soap,Bakery,10.0,3.75,09.07.2023,Store A
+30,Eggs,Produce,0.0,2.0,2023-07-15,Store A
